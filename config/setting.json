@@ -1,0 +1,13 @@
+{
+  "BanChats": true,
+  "AutoRead": true,
+  "AutoRecording": true,
+  "AutoReply": true,
+  "NamaSession": "sessions",
+  "NamaOwner": "Ridzz",
+  "NamaBot": "Kocakz Bot",
+  "NomorOwner": "6285745455226",
+  "NomorOwner2": "62857454552269@s.whatsapp.net",
+  "NomorBot": "62857454552269",
+  "Limit": 5
+}
